@@ -1,0 +1,22 @@
+# conda env create -f environment.yml
+# conda activate pibi24
+# jupyter lab
+# conda remove --name pibi24 --all
+
+name: pibi24
+channels:
+  - defaults
+dependencies:
+  - python
+  - jupyter
+  - nbgrader
+  - numpy
+  - pandas
+  - scikit-learn
+  - seaborn
+  - biopython
+  - statsmodels 
+  - openpyxl
+  - plotly
+  - reportlab
+  - dtreeviz
