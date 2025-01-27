@@ -33,5 +33,5 @@ metabolism).
 * Install conda on your machine
 * Open the terminal and navigate to the PIBI-Students directory 
 * Create a conda environment and install the required packages. You can do this in one step by typing `conda env create -f environment.yml`
-* Active the conda environment with `conda activate pibi24`
+* Active the conda environment with `conda activate pibi25`
 * Open jupyter lab with `jupyter lab`
