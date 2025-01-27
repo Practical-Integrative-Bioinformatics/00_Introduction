@@ -3,7 +3,7 @@
 # jupyter lab
 # conda remove --name pibi24 --all
 
-name: pibi24
+name: pibi25
 channels:
   - defaults
 dependencies:
