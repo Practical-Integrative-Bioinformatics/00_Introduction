@@ -28,10 +28,10 @@ metabolism).
 * To pass the practical course a report will have to be handed in. The grade is based on this report and your performance during the course. Passing requires an overall grade of 4.0 or better.
 
 ## Preparation
-* Fork this repository to create your personal repo
-* Clone your personal repo on your machine locally
-* Install conda on your machine
-* Open the terminal and navigate to the PIBI-Students directory 
-* Create a conda environment and install the required packages. You can do this in one step by typing `conda env create -f environment.yml`
-* Active the conda environment with `conda activate pibi25`
-* Open jupyter lab with `jupyter lab`
+* By starting the assignment, you have created a fork of the assignment repository, for you to work on your own.
+* (Clone)[https://education.github.com/git-cheat-sheet-education.pdf] this forked repo on your machine locally.
+* (Install conda on your machine)[https://docs.anaconda.com/miniconda/install/]
+* Open the terminal and navigate to the local directory.
+* Create a conda environment and install the required packages. You can do this in one step by typing `conda env create -f environment.yml`.
+* Active the conda environment with `conda activate pibi25`.
+* Open jupyter lab with `jupyter lab`.
