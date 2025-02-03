@@ -30,7 +30,7 @@ metabolism).
 ## Preparation
 * By starting the assignment, you have created a fork of the assignment repository, for you to work on your own.
 * [Clone](https://education.github.com/git-cheat-sheet-education.pdf) this forked repo on your machine locally.
-* [Install] conda on your machine(https://docs.anaconda.com/miniconda/install/)
+* [Install](https://docs.anaconda.com/miniconda/install/) conda on your machine.
 * Open the terminal and navigate to the local directory.
 * Create a conda environment and install the required packages. You can do this in one step by typing `conda env create -f environment.yml`.
 * Active the conda environment with `conda activate pibi25`.
