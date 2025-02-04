@@ -1,13 +1,8 @@
-# conda env create -f environment.yml
-# conda activate pibi24
-# jupyter lab
-# conda remove --name pibi24 --all
-
 name: pibi25
 channels:
   - defaults
 dependencies:
-  - python
+  - python==3.12
   - jupyter
   - nbgrader
   - numpy
