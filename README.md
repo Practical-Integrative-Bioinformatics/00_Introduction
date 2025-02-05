@@ -28,7 +28,6 @@ metabolism).
 * To pass the practical course a report will have to be handed in. The grade is based on this report and your performance during the course. Passing requires an overall grade of 4.0 or better.
 
 ## Preparation
-* By starting the assignment, you have created a fork of the assignment repository, for you to work on your own.
 * [Clone](https://education.github.com/git-cheat-sheet-education.pdf) this forked repo on your machine locally.
 * [Install](https://docs.anaconda.com/miniconda/install/) conda on your machine.
 * Open the terminal and navigate to the local directory.
